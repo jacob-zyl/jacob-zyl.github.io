@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jacob Z. Liu, Launches Site
+title: Jacob Z. Liu Launches Site
 data: 2017-04-06
 ---
 
