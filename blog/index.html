@@ -7,6 +7,6 @@ title: Jacob Liu's Blog
 
 	  {% for post in site.posts %}
 	    <li><a href="{{ post.url }}" title="{{ post.title }}">
-                {{ post.title }}</a></li>
+                {{ post.title }}</a><div class="post"> {{ content }} </div></li>
 	  {% endfor %}
 	</ul>
