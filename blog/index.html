@@ -8,6 +8,8 @@ title: Jacob Liu's Blog
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}" title="{{ post.title }}">
-      {{ post.title }}</a></li>
+      <span>
+        {{ post.date | date_to_string }}</span>
+      >> {{ post.title }}</a></li>
   {% endfor %}
 </ul>
