@@ -5,6 +5,8 @@ This is my personal site where I post my reading notes, projects, and blogs.
 
 ** Code Structure
 
-The file 
+The file ~css/main.css~ is for page style.
 
+
+Directory ~about/~, ~blog/~, and ~cv/~ is the content of the site.
 
