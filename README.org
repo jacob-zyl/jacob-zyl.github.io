@@ -7,10 +7,13 @@ This is my personal site where I post my reading notes, projects, and blogs.
 
 The file ~/css/main.css~ is for page style.
 
-
 Directory ~/about/~, ~/blog/~, and ~/cv/~ is the content of the site.
 
-File ~/blog/index.html~ is the format of index shown on the page.
+File ~/blog/index.html~ is the format of index shown on the page. All
+~index.html~ files serve the same purpose.
 
 File ~/layout/default.html~ is the format of the default webpage, and
 ~/layout/post.html~ is the format of posts.
+
+The ~kramdown~ shown in ~/_config.yml~ is a superset of markdown, just
+use standard markdown is okay.
